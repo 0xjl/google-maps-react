@@ -1,0 +1,6 @@
+.text-box {
+  border: 3px solid rgba(86, 85, 85, 0.181);
+  margin: 1em;
+  width: 50%;
+  text-align: center;
+}
